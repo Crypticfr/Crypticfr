@@ -1,4 +1,4 @@
-<h4 align="left">Subhajit Samajpati here<br><br>About Me<br>I'll let my projects to talk about me.<br>Learning new technologies and contributing to open source.<br><br>🛠️ Skills:-</h4>
+<h4 align="left">Subhajit Samajpati here<br><br>About Me<br>I'll let my projects talk about me.<br>Learning new technologies and contributing to open source.<br><br>🛠️ Skills:-</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazU4MXlhMml0dHF5d2J1NDcxeWE5MTl4YnlrN2F0ZnVicTJ3MzhkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UUZxXPoguNdaD6P8B/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/1UUZxXPoguNdaD6P8B/giphy.gif"/>
 
 ###
 
@@ -32,13 +32,13 @@
   <a href="https://www.linkedin.com/in/subhajit-samajpati-a48591262/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/crypticfr" target="_blank">
+  <a href="https://discordapp.com/users/crypticfr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/cryptic_fr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="paltusamajpati1251@gmail.com" target="_blank">
+  <a href="mailto:paltusamajpati1251@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
