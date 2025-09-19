@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi, I'm Subhajit Samajpati<br><br>🚀 About Me<br>I'm passionate about software development, security, Linux, and building cool projects.  <br>I love learning new technologies and contributing to open source.<br><br>🛠️ Skills:-</h4>
+<h4 align="left">Subhajit Samajpati here<br><br>About Me<br>I'll let my projects to talk about me.<br>Learning new technologies and contributing to open source.<br><br>🛠️ Skills:-</h4>
 
 ###
 
@@ -20,11 +20,11 @@
 
 ###
 
-<h1 align="left">Lets Get In Touch :)</h1>
+<h1 align="left">Get In Touch?</h1>
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFwa2kycjNoMXV1bTV2bmE5dHA0YTAwNGxqdDc1ZzZxNjZuc2I0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFGyQLh90JU7S/giphy.gif"  />
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazU4MXlhMml0dHF5d2J1NDcxeWE5MTl4YnlrN2F0ZnVicTJ3MzhkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UUZxXPoguNdaD6P8B/giphy.gif"  />
 
 ###
 
